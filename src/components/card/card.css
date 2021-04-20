@@ -1,0 +1,10 @@
+.container {
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  overflow: scroll;
+}
+img {
+  width: auto;
+  height: 100px;
+}
